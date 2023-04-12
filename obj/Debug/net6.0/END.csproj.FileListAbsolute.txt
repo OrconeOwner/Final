@@ -1,0 +1,15 @@
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\bin\Debug\net6.0\END.exe
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\bin\Debug\net6.0\END.deps.json
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\bin\Debug\net6.0\END.runtimeconfig.json
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\bin\Debug\net6.0\END.dll
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\bin\Debug\net6.0\END.pdb
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\END.csproj.AssemblyReference.cache
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\END.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\END.AssemblyInfoInputs.cache
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\END.AssemblyInfo.cs
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\END.csproj.CoreCompileInputs.cache
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\END.dll
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\refint\END.dll
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\END.pdb
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\END.genruntimeconfig.cache
+C:\Users\Karyerlenovo\Desktop\Final_Project\END\obj\Debug\net6.0\ref\END.dll
